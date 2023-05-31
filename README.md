@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Priyansh Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshgupta2002&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshgupta2002" /> </p>
 <h3 align="center">Passionate MERN Stack Developer with Next.js Expertise: Building Dynamic and Scalable Web Applications</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-- 👨‍💻 All of my projects are available at (https://priyanshgupta2002.github.io/personal/)
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+- 👨‍💻 All of my projects are available at https://priyanshgupta2002.github.io/personal/
 
 - 💬 Ask me about **react, nextjs 13.4, express, mongodb, nodejs**
 
